@@ -379,7 +379,7 @@ This project is created for educational and learning purposes. Feel free to use 
 
 If you have questions or need help:
 
-- 📧 Email: [Your Email]
+- 📧 Email: maliqramirza.mahja@gmail.com
 - 💬 Discussion: Open an issue in the repository
 - 📖 Documentation: Read this README completely
 
